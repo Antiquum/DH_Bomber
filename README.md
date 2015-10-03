@@ -10,5 +10,13 @@ A simple Delphi program to send mails with the following options:<br>
 [+] The program can generate PHP files we needed launcher with the data configured for use on any hosting.<br>
 [+] The program can also manage passwords found with the launcher<br>
 [+] The program also brings a fake serving Malware URL that looks like a youtube video of outdated to download a fake Adobe Flash Player<br>
-<br>
-Video : https://www.youtube.com/watch?v=QRJ0rBKTsG8
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dhbombernew.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/QRJ0rBKTsG8/0.jpg)](http://www.youtube.com/watch?v=QRJ0rBKTsG8)
+
+Good Bye
